@@ -5,3 +5,4 @@ node_modules/
 !important.log
 config.env
 secret.txt
+about.html
